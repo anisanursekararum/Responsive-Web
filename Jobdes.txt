@@ -1,0 +1,20 @@
+Tugas Responsive Web Design :
+
+I. Tugas 1 
+   Pastikan Folder toko_gadget_online sudah tercopy di localdisk kemudian lakukan langkah berikut :
+
+   - Silahkan modifikasi tampilan dan konten contoh responsive web toko gadget online
+     dengan tema bebas masing-masing siswa harus beda.
+
+II. Tugas 2
+   Buat Pembahasan dalam bentuk slide presentasi dengan isi sebagai berikut :
+   
+   - Terdapat judul tentang responsive web design beserta nama lengkap dan no.absen
+   - Terdapat Penjelasan pengertian responsive web design
+   - Terdapat tampilan contoh responsive web design berupa screenshoot dari hasil Tugas 1
+   - pilihlah bagian script dari Tugas 1 di bagian HTML maupun di bagian CSS yang berfungsi
+     membentuk tampilan responsive.
+
+III. Tugas paling lambat dikumpulkan di pertemuan minggu depan berikutnya
+     Terima kasih dan selamat bekerja    
+       
